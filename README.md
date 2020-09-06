@@ -6,5 +6,5 @@ Complete the method/function so that it converts dash/underscore delimited words
 
 # Examples
 
-to_camel_case("the-stealth-warrior") # returns "theStealthWarrior"  
-to_camel_case("The_Stealth_Warrior") # returns "TheStealthWarrior"
+- to_camel_case("the-stealth-warrior") # returns "theStealthWarrior"  
+- to_camel_case("The_Stealth_Warrior") # returns "TheStealthWarrior"
